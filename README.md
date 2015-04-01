@@ -43,7 +43,7 @@ In designing Paths.js, I have tried to follow a few principles:
 Documentation
 -------------
 
-A detailed documentation is available on the [wiki](). Here are links to the main entry points.
+A detailed documentation is available on the [wiki](https://github.com/andreaferretti/paths-js/wiki). Here are links to the main entry points.
 
 Paths.js offers three APIs, of increasing abstraction. The lowest level is a chainable API to generate an arbitrary SVG path. On top of this, paths for simple geometric shapes such as polygons or circle sectors are defined. At the highest level, there is an API to generate some simple graphs (pie, line chart, radar...) for a collection of data, assembling the simple shapes.
 
